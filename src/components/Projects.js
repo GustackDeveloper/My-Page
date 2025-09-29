@@ -10,7 +10,7 @@ const [listProjects] = useState([
     des: 'A modern web platform for exploring and ordering automobiles. The application offers an attractive and responsive user interface, providing users with an interactive experience for browsing different car models and making purchase orders. It features smooth animations, a loading screen with dynamic elements, and a well-structured design for a seamless user journey.',
     mission: 'To develop a visually appealing and user-friendly interface for a car catalog platform, enabling users to browse and order vehicles online with an engaging and responsive design.',
     Technologies: 'HTML5, CSS3, JavaScript,Angular',
-    images: '/project1.PNG',
+    images: 'project1.PNG',
     url: 'https://gustackdeveloper.github.io/cars/'
   },
   {
@@ -18,7 +18,7 @@ const [listProjects] = useState([
     des: 'A modern web application designed for an online pet shop, offering a responsive and intuitive user experience. The platform allows users to browse products by categories, add items to a shopping cart, apply discounts, and complete orders seamlessly. It features advanced UI components, dark/light mode, and efficient state management with Redux',
     mission: 'To develop a scalable, user-friendly e-commerce platform for pet products, providing an engaging shopping experience with modern UI design, fast performance, and clear navigation.',
     Technologies: 'React, Vite, React Router DOM, Redux Toolkit, Material-UI (MUI), Axios, React Hook Form, CSS Modules, ESLint',
-    images: '/project2.PNG',
+    images: 'project2.PNG',
     url: 'https://gustackdeveloper.github.io/pet-shop/'
   },
   {
@@ -27,7 +27,7 @@ const [listProjects] = useState([
     mission: 'To design and implement a scalable, full-stack application leveraging modern web technologies to replicate Instagram core features, ensuring high performance, real-time communication, and mobile-first design.',
     TechnologiesFrontend: 'React, Vite, Tailwind CSS, Redux Toolkit, React Router, Socket.IO Client, Driver.js, React Hook Form, Emoji Picker React',
     TechnologiesBackend: 'Node.js, TypeScript, MongoDB, Mongoose, JWT, Cloudinary, multer, Socket.IO, Bcrypt, Multer, Sharp, Nodemailer',
-    images: '/project3.PNG',
+    images: 'project3.PNG',
     url: 'https://github.com/GustackDeveloper/Ichgram'
   },
 

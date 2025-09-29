@@ -17,13 +17,13 @@ I am passionate about technology, problem-solving, and developing innovative dig
 Skills: Teamwork, adaptability, fast learning, analytical thinking, and results-oriented mindset.
             </div>
             
-            <a href="/CV.docx" target="_blank" rel="noopener noreferrer" className='animation active '>
+            <a href="CV.docx" target="_blank" rel="noopener noreferrer" className='animation active '>
                 Download My CV
             </a>
         </div>
         <div className="avatar">
             <div className="card">
-                <img src="/avatar.jpg" alt="" />
+                <img src="avatar.jpg" alt="" />
 
             </div>
         </div>
