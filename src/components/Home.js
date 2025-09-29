@@ -23,7 +23,7 @@ Skills: Teamwork, adaptability, fast learning, analytical thinking, and results-
         </div>
         <div className="avatar">
             <div className="card">
-                <img src="avatar.jpg" alt="" />
+                <img src={process.env.PUBLIC_URL + '/avatar.jpg'} alt="" />
 
             </div>
         </div>
